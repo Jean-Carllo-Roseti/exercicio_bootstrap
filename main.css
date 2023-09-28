@@ -26,3 +26,10 @@ header .container {
 #botao:hover {
     color: #fff;
 }
+
+form {
+
+    margin: 50px auto;
+    max-width: 400px;
+
+}
