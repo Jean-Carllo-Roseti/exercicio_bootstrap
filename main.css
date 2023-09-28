@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: green;
+    margin-bottom: 100px;
+}
+
+h2 {
+    text-align: center;
+}
+
+header .container {
+    text-align: center;
+    padding: 10px
+}
+
+#botao {
+    margin-top: 10px;
+    background-color: rgb(165, 248, 165);
+}
+
+#botao:hover {
+    color: #fff;
+}
